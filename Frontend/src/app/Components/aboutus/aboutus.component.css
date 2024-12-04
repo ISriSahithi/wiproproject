@@ -1,0 +1,15 @@
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  .jumbotron {
+    background-color: #8d9b70;
+  }
+  .feature-icon {
+    font-size: 3rem;
+    color: #04182d;
+  }
+
+  .feature{
+    font-size: 3rem;
+  }
